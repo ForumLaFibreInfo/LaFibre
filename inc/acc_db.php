@@ -3,9 +3,9 @@
 
 
 $mysqlinfos = array(
-"HOST" => "localhost";
-"USER" => "root";
-"PASS" => "toor"
+"HOST" => "localhost",
+"USER" => "root",
+"PASS" => "toor",
 "NAME" = "lafibre"
 );
 

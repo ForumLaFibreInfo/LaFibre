@@ -1,7 +1,7 @@
 <?php
 
 
-	$boardinfos = array(
+	$boardinfo = array(
 
 		"name" => "LaFibre.info",
 		"desc" => "Tout sur la fibre optique : FTTH Gpon, P2P, FTTLA, FTTdp,...",

@@ -8,7 +8,7 @@
 <html>
   <head>
     <title>
-    <?php echo($boardinfo['nom']);
+    <?php echo($boardinfo['nom']); ?>
     </title>
   </head>
   <body>

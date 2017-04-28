@@ -1,2 +1,2 @@
 # LaFibre
-Dèplacè  ici : https://framagit.org/TroniQ89/LaFibreBB
+Dèplacè  ici : https://framagit.org/LaFibreBB/LaFibreBB

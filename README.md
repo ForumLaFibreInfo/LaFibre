@@ -1,2 +1,2 @@
 # LaFibre
-Créer un Bulletin Board adapté au forum LaFibre.info
+Dèplacè  ici : https://framagit.org/TroniQ89/LaFibreBB
